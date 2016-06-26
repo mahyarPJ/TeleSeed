@@ -1,0 +1,17 @@
+do
+
+function run(msg, matches)
+  return slm mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 🌹]]
+end
+
+return {
+  description = "Robot and Creator About", 
+  usage = "/ver : robot info",
+  patterns = {
+    "^[!/]version$",
+    "^([Vv]ersion)$"
+  }, 
+  run = run 
+}
+
+end
